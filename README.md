@@ -82,7 +82,7 @@ Enter the index of the device to use: 1
 
 Sélectionner l'index correspondant au device Android (ici `1` pour le socket local).
 
-![Lancement de Medusa et sélection du device](Lab_R/lancement%20medusa.png)
+![Lancement de Medusa et sélection du device](Lab_R/lancement%20medusa%20.png)
 
 ---
 
