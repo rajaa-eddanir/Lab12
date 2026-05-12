@@ -82,7 +82,7 @@ Enter the index of the device to use: 1
 
 Sélectionner l'index correspondant au device Android (ici `1` pour le socket local).
 
-![Lancement de Medusa et sélection du device](Lab_R/lancement_medusa_.png)
+![Lancement de Medusa et sélection du device](Lab_R/lancement%20medusa_.png)
 
 ---
 
@@ -94,7 +94,7 @@ Pour afficher toutes les options disponibles au lancement :
 python medusa.py --help
 ```
 
-![Aide Medusa](Lab_R/medusa_help.png)
+![Aide Medusa](Lab_R/medusa%20help.png)
 
 Les options principales au lancement :
 
@@ -148,7 +148,7 @@ Current Mods:
 0) root_detection/universal_root_detection_bypass
 ```
 
-![Recherche et chargement du module root detection](Lab_R/search_root.png)
+![Recherche et chargement du module root detection](Lab_R/search%20root.png)
 
 ---
 
@@ -167,7 +167,7 @@ Module list has been modified, do you want to recompile? (Y/n) y
 Script is compiled
 ```
 
-![Exécution du bypass sur owasp.mstg.uncrackable2](Lab_R/run_owasp.png)
+![Exécution du bypass sur owasp.mstg.uncrackable2](Lab_R/run%20owasp.png)
 
 ---
 
